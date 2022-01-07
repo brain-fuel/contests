@@ -78,16 +78,15 @@ Contest postings shall include the following
   Public License instead of this License.  But first, please read
   <https://www.gnu.org/licenses/why-not-lgpl.html>.
   #+END_EXAMPLE
-
-** Scoring
-*** Code will be scored on a scale of 1-10 based upon the following criteria (adopted from Kit Eason, 2022)
+*** Scoring
+**** Code will be scored on a scale of 1-10 based upon the following criteria (adopted from Kit Eason, 2022)
 **** Semantic Focus
 **** Revisability
 **** Motivational Transparency
 **** Mechanical Sympathy
 **** Testing
 ***
-** Literate Programming
+*** Literate Programming
 ** License
 #+BEGIN_EXAMPLE
 Coding Contests: Promoting open-source solutions to common programming problems
