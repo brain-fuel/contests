@@ -3,12 +3,12 @@
 *** Literate Programming
 Submissions must be in the form of an Org-mode document, and must follow literate programming practices as outlined below and demonstrated in the included example.
 *** Language
-**** Prose must be in [[https://en.wikipedia.org/wiki/English_language][English]] unless otherwise specified.
-**** Code must be in [[https://fsharp.org/][F#]] unless otherwise specified. If the code fails to compile, the submission will not be accepted.
+1. Prose must be in [[https://en.wikipedia.org/wiki/English_language][English]] unless otherwise specified.
+2. Code must be in [[https://fsharp.org/][F#]] unless otherwise specified. If the code fails to compile, the submission will not be accepted.
 *** Originality
-**** Submissions may contain work by people other than the contestant, but may not include content for which the contestant does not have the right to submit under Copyright Law, and the [[#license][Licensing]] section below.
-**** If a submission contains work by people other than the contestant, proper [[https://www.citationmachine.net/resources/citing-sources-apa/][attribution]] must be given. APA format isn't necessary, but can be convenient if you choose to use it.
-**** Submissions may not merely repackage the work of another. They must contain original content. The amount of original content required, both in total and in relation to the quantity of the content of others, is subject to the discernment of the judge(s).
+1. Submissions may contain work by people other than the contestant, but may not include content for which the contestant does not have the right to submit under Copyright Law, and the [[#license][Licensing]] section below.
+2. If a submission contains work by people other than the contestant, proper [[https://www.citationmachine.net/resources/citing-sources-apa/][attribution]] must be given. APA format isn't necessary, but can be convenient if you choose to use it.
+3. Submissions may not merely repackage the work of another. They must contain original content. The amount of original content required, both in total and in relation to the quantity of the content of others, is subject to the discernment of the judge(s).
 *** Submissions
 In order to be considered, content (prose, code, image(s)) must arrive as a pull request to the appropriate GitHub repository before the deadline specified in the contest [[#postings][posting]], and the submission form must be filled out and submitted via Google Forms.
 
