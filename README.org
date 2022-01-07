@@ -80,9 +80,7 @@ Contest postings shall include the following
   <https://www.gnu.org/licenses/why-not-lgpl.html>.
   #+END_EXAMPLE
 *** Scoring
-**** Code will be scored based upon the following criteria (adopted from [[https://link.springer.com/book/10.1007/978-1-4842-4000-7][Stylish F#, by Kit Eason, 2022]])
-
-(min 0 points, max 50 points)
+**** Code (0-50 pts) will be scored based upon the following criteria (adopted from [[https://link.springer.com/book/10.1007/978-1-4842-4000-7][Stylish F#, by Kit Eason, 2022]])
 
 1. Motivational Transparency
 
