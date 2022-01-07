@@ -81,6 +81,7 @@ Contest postings shall include the following
   #+END_EXAMPLE
 *** Scoring
 **** Code will be scored based upon the following criteria (adopted from [[https://link.springer.com/book/10.1007/978-1-4842-4000-7][Stylish F#, by Kit Eason, 2022]])
+
 1. Semantic Focus
 
    (min 0 points, max 12 points)
@@ -98,12 +99,14 @@ Contest postings shall include the following
    (min 0 points, max 8 points)
 
 **** Prose will be scored based upon the following criteria
-***** Clarity
+
+1. Clarity
+
 *** Literate Programming
 ** License
 #+BEGIN_EXAMPLE
 Coding Contests: Promoting open-source solutions to common programming problems
-    Copyright (C) 2022  Matthew I. Laine
+    Copyright (C) 2022 Matthew I. Laine
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
