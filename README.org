@@ -95,20 +95,38 @@ Submissions must be in the form of an Org-mode document, and must follow literat
 
 4. Revisability (0-10 pts)
 
+Note 1: Failure to test logic will result in a zero 'Code' score.
+
+Note 2: Failure for the code (that includes tests) to compile will result in a zero 'Code' score.
+
 *** Prose will be scored based upon the following criteria
 
-1. Clarity
+1. Clarity & Precision (0-10 pts)
+
+2. Accuracy & Truthfulness (0-10 pts)
+
+3. Economy of Expression & Neatness (0-10 pts)
+
+4. Pleasantness & Readability (0-10 pts)
+
+5. Organization & Formatting (0-10 pts)
 
 ** Postings
 
 Contest postings shall include the following
 
 1. Prompt
+
 2. Submission deadline
+
 3. List of prizes
+
 4. List of judges
+
 5. Link to GitHub repository + git hash of the specific version of the rules being used
+
 6. Link to GitHub repository specific to the individual contest
+
 7. Link to submission form (fill this out only after you have finalized your submission)
 
 ** License
