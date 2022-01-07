@@ -2,7 +2,7 @@
 #+NAME:Rules
 ** Rules
 *** Submissions
-0. Submissions must be in the form of an Org-mode document, and must follow the spirit of [[Literate Programming]]
+0. Submissions must be in the form of an Org-mode document, and must follow the spirit of [[*Literate Programming]]
 1. Code must be in F# unless otherwise specified.
 2. Prose must be in English unless otherwise specified.
 3. Submissions may contain work by people other than the contestant, may only include content for which the contestant has the right to submit under GPLv3.0 by Copyright Law.
