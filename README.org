@@ -3,8 +3,8 @@
 Contest postings shall include the following
 1. Prompt
 2. Submission deadline
-3. List of judges
-4. List of prizes
+3. List of prizes
+4. List of judges
 5. Link to GitHub repository + git hash of the specific version of the rules being used
 6. Link to GitHub repository specific to the individual contest
 7. Link to submission form (fill this out only after you have finalized your submission)
