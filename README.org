@@ -1,13 +1,4 @@
 * Coding Contests: Promoting open-source solutions to common programming problems
-** Postings
-Contest postings shall include the following
-1. Prompt
-2. Submission deadline
-3. List of prizes
-4. List of judges
-5. Link to GitHub repository + git hash of the specific version of the rules being used
-6. Link to GitHub repository specific to the individual contest
-7. Link to submission form (fill this out only after you have finalized your submission)
 ** Rules
 *** Submissions
 1. Submissions must be in the form of an Org-mode document, and must follow [[#literate-programming][Literate Programming]] practices as outlined in the relevant section and demonstrated in the included example.
@@ -95,6 +86,15 @@ Contest postings shall include the following
 1. Clarity
 
 *** Literate Programming
+** Postings
+Contest postings shall include the following
+1. Prompt
+2. Submission deadline
+3. List of prizes
+4. List of judges
+5. Link to GitHub repository + git hash of the specific version of the rules being used
+6. Link to GitHub repository specific to the individual contest
+7. Link to submission form (fill this out only after you have finalized your submission)
 ** License
 #+BEGIN_EXAMPLE
 Coding Contests: Promoting open-source solutions to common programming problems
