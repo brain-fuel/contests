@@ -9,6 +9,7 @@ Submissions must be in the form of an Org-mode document, and must follow literat
 *** Language
 
 1. Prose must be in [[https://en.wikipedia.org/wiki/English_language][English]] unless otherwise specified.
+
 2. Code must be in [[https://fsharp.org/][F#]] unless otherwise specified. If the code fails to compile, the submission will not be accepted.
 
 *** Originality
@@ -95,9 +96,13 @@ Submissions must be in the form of an Org-mode document, and must follow literat
 
 4. Revisability (0-10 pts)
 
-Note 1: Failure to test logic will result in a zero 'Code' score.
+**** The following infractions will automatically result in a zero 'Code' score.
 
-Note 2: Failure for the code (that includes tests) to compile will result in a zero 'Code' score.
+***** Failure to test logic.
+
+***** Failure for the code or tests to compile.
+
+***** Failure to earn at least 50% of the possible points in any of the above Code scoring categories.
 
 *** Prose will be scored based upon the following criteria
 
@@ -110,6 +115,12 @@ Note 2: Failure for the code (that includes tests) to compile will result in a z
 4. Pleasantness & Readability (0-10 pts)
 
 5. Organization & Formatting (0-10 pts)
+
+**** The following infractions will automatically result in a zero 'Prose' score.
+
+***** Failure to earn at least 50% of the possible points in any of the above Prose scoring categories.
+
+*** Earning a zero in either Code or Prose will cause any given entry to be disqualified from competition.
 
 ** Postings
 
