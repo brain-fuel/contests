@@ -123,11 +123,13 @@ Contest postings shall include the following
 
 4. List of judges
 
-5. Link to GitHub repository + git hash of the specific version of the rules being used
+5. Language version information, etc.
 
-6. Link to GitHub repository specific to the individual contest
+6. Link to GitHub repository + git hash of the specific version of the rules being used
 
-7. Link to submission form (fill this out only after you have finalized your submission)
+7. Link to GitHub repository specific to the individual contest
+
+8. Link to submission form (fill this out only after you have finalized your submission)
 
 ** License
 
