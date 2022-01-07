@@ -11,6 +11,7 @@ Contest postings shall include the following
 *** Submissions
 1. Submissions must be in the form of an Org-mode document, and must follow [[#literate-programming][Literate Programming]] practices as outlined in the relevant section and demonstrated in the included example.
 2. In order to be considered, submissions must arrive as a pull request to the appropriate GitHub repository before the deadline specified in the contest [[#postings][posting]], and the submission form must be filled out and submitted.
+
    Note: pull requests made prior to the deadline may be given feedback at the discretion of the judges. Contestants may use this to their advantage, if they so wish. The sumission form contains a field for the git commit hash to be considered by the judges for review. Only the commit indicated in the submission form will be judged in the context of the contest.
 3. Any code must be in [[https://fsharp.org/][F#]] unless otherwise specified. If the code fails to compile, the submission will not be accepted.
 4. Prose must be in [[https://en.wikipedia.org/wiki/English_language][English]] unless otherwise specified.
