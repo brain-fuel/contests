@@ -82,13 +82,15 @@ Contest postings shall include the following
 *** Scoring
 **** Code will be scored based upon the following criteria (adopted from [[https://link.springer.com/book/10.1007/978-1-4842-4000-7][Stylish F#, by Kit Eason, 2022]])
 
-1. Semantic Focus
+(min 0 points, max 50 points)
 
-   (min 0 points, max 12 points)
-
-2. Motivational Transparency
+1. Motivational Transparency
 
    (min 0 points, max 20 points)
+
+2. Semantic Focus
+
+   (min 0 points, max 15 points)
 
 3. Mechanical Sympathy
 
@@ -96,7 +98,7 @@ Contest postings shall include the following
 
 4. Revisability
 
-   (min 0 points, max 8 points)
+   (min 0 points, max 5 points)
 
 **** Prose will be scored based upon the following criteria
 
