@@ -8,6 +8,7 @@
 **** Submissions may not merely repackage the work of another. They must contain original content.
 **** Only submissions submitted under the Gnu General Public License version 3.0 will be accepted.
 ***** What does this mean?
+```
 This means that the following must be adhered to, with the exception of providing a paper mail address.
 
             How to Apply These Terms to Your New Programs
@@ -62,6 +63,7 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+```
 ** Scoring
 *** Code will be scored on a scale of 1-10 based upon the following criteria (adopted from Kit Eason, 2022)
 **** Semantic Focus
