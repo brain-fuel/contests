@@ -5,7 +5,8 @@ Contest postings shall include the following
 2. List of prizes
 3. List of judges
 4. Submission deadline
-5. Link to contest GitHub repository
+5. Link to GitHub repository + git hash of the specific version of the rules being used
+5. Link to GitHub repository specific to the individual contest
 6. Link to submission form (fill this out only after you have finalized your submission)
 ** Rules
 *** Submissions
@@ -16,7 +17,7 @@ Contest postings shall include the following
 3. Any code must be in [[https://fsharp.org/][F#]] unless otherwise specified. If the code fails to compile, the submission will not be accepted.
 4. Prose must be in [[https://en.wikipedia.org/wiki/English_language][English]] unless otherwise specified.
 5. Submissions may contain work by people other than the contestant, may only include content for which the contestant has the right to submit under [[0][GPLv3.0]] by Copyright Law.
-6. If a submission contains work by people other than the contestant, proper [[https://www.citationmachine.net/resources/citing-sources-apa/][attribution]] must be given.
+6. If a submission contains work by people other than the contestant, proper [[https://www.citationmachine.net/resources/citing-sources-apa/][attribution]] must be given. APA format isn't necessary, but can be convenient if you choose to use it.
 7. Submissions may not merely repackage the work of another. They must contain original content. The amount of original content required, both in total and in relation to the quantity of the content of others, is subject to the discernment of the judge(s).
 8. Only submissions submitted under the [[https://www.gnu.org/licenses/gpl-3.0.en.html][Gnu General Public License version 3.0]] will be accepted.
 
@@ -79,13 +80,13 @@ Contest postings shall include the following
   <https://www.gnu.org/licenses/why-not-lgpl.html>.
   #+END_EXAMPLE
 *** Scoring
-**** Code will be scored on a scale of 1-10 based upon the following criteria (adopted from Kit Eason, 2022)
-**** Semantic Focus
-**** Revisability
-**** Motivational Transparency
-**** Mechanical Sympathy
-**** Testing
-***
+**** Code will be scored based upon the following criteria (adopted from [[https://link.springer.com/book/10.1007/978-1-4842-4000-7][Stylish F#, by Kit Eason, 2022]])
+***** Semantic Focus             (min 0 points, max 12 points)
+***** Revisability               (min 0 points, max 8 points)
+***** Motivational Transparency  (min 0 points, max 20 points)
+***** Mechanical Sympathy        (min 0 points, max 10 points)
+**** Prose will be scored based upon the following criteria
+***** Clarity
 *** Literate Programming
 ** License
 #+BEGIN_EXAMPLE
