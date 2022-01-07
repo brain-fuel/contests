@@ -1,18 +1,27 @@
 * Coding Contests: Promoting open-source solutions to common programming problems
-#+NAME:Rules
+** Postings
+Contest postings shall include the following
+1. Prompt
+2. List of judges
+3. Submission time window
+4. Link to contest GitHub repository
+5. Link to submission form
+** Judges
+The judge(s) for each contest will be announced in the posting for each contest.
 ** Rules
 *** Submissions
-0. Submissions must be in the form of an Org-mode document, and must follow the spirit of [[#literate-programming][Literate Programming]]
-1. Code must be in F# unless otherwise specified.
-2. Prose must be in English unless otherwise specified.
-3. Submissions may contain work by people other than the contestant, may only include content for which the contestant has the right to submit under GPLv3.0 by Copyright Law.
-4. If a submission contains work by people other than the contestant, proper attribution must be given.
-5. Submissions may not merely repackage the work of another. They must contain original content.
-6. Only submissions submitted under the Gnu General Public License version 3.0 will be accepted.
+1. Submissions must be in the form of an Org-mode document, and must follow the spirit of [[#literate-programming][Literate Programming]]
+2. In order to be considered, submissions must arrive as a pull request to the appropriate GitHub repository within the time window specified in the contest [[#posting][posting]]. Early submissions may be given feedback at the discretion of the judge(s)
+3. Code must be in [[https://fsharp.org/][F#]] unless otherwise specified.
+4. Prose must be in [[https://en.wikipedia.org/wiki/English_language][English]] unless otherwise specified.
+5. Submissions may contain work by people other than the contestant, may only include content for which the contestant has the right to submit under [[0][GPLv3.0]] by Copyright Law.
+6. If a submission contains work by people other than the contestant, proper [[https://www.citationmachine.net/resources/citing-sources-apa/][attribution]] must be given.
+7. Submissions may not merely repackage the work of another. They must contain original content. The amount of original content required, both in total and in relation to the quantity of the content of others, is subject to the discernment of the judge(s).
+8. Only submissions submitted under the [[https://www.gnu.org/licenses/gpl-3.0.en.html][Gnu General Public License version 3.0]] will be accepted.
 
    What does this mean?
 
-   This means that the following must be adhered to, with the exception of providing a paper mail address.
+   This means that, at bare minimum, the following must be adhered to, with the exception of providing a paper mail address.
 
    #+BEGIN_EXAMPLE
               How to Apply These Terms to Your New Programs
