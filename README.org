@@ -1,13 +1,15 @@
 * Coding Contests: Promoting open-source solutions to common programming problems
 ** Rules
 *** Submissions
-**** Code must be in F# unless otherwise specified.
-**** Prose must be in English unless otherwise specified.
-**** Submissions may contain work by people other than the contestant, may only include content for which the contestant has the right to submit under GPLv3.0 by Copyright Law.
-**** If a submission contains work by people other than the contestant, proper attribution must be given.
-**** Submissions may not merely repackage the work of another. They must contain original content.
-**** Only submissions submitted under the Gnu General Public License version 3.0 will be accepted.
-***** What does this mean?
+#. Code must be in F# unless otherwise specified.
+#. Prose must be in English unless otherwise specified.
+#. Submissions may contain work by people other than the contestant, may only include content for which the contestant has the right to submit under GPLv3.0 by Copyright Law.
+#. If a submission contains work by people other than the contestant, proper attribution must be given.
+#. Submissions may not merely repackage the work of another. They must contain original content.
+#. Only submissions submitted under the Gnu General Public License version 3.0 will be accepted.
+
+What does this mean?
+
 This means that the following must be adhered to, with the exception of providing a paper mail address.
 #+BEGIN_EXAMPLE
             How to Apply These Terms to Your New Programs
