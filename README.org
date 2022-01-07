@@ -2,10 +2,11 @@
 ** Postings
 Contest postings shall include the following
 1. Prompt
-2. List of judges
-3. Submission time window
-4. Link to contest GitHub repository
-5. Link to submission form
+2. List of prizes
+3. List of judges
+4. Submission time window
+5. Link to contest GitHub repository
+6. Link to submission form
 ** Rules
 *** Submissions
 1. Submissions must be in the form of an Org-mode document, and must follow the spirit of [[#literate-programming][Literate Programming]]
