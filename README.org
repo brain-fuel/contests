@@ -2,10 +2,11 @@
 
 ** `TODO`
 *** Give explanations and examples for each of the scoring criteria
-*** Make a bash script for submission skeleton setup
 *** Complete 'Style & Organization' section
 **** Make example submission
-**** Fill in text
+***** Make example repository
+***** Make a bash script for submission skeleton setup
+**** Fill in text of style and organization section
 *** Reassess the situation and make TODOs accordingly
 
 ** Rules
