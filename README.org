@@ -121,15 +121,15 @@ Submissions must be in the form of an Org-mode document, and must follow literat
 
 *** Prose will be scored based upon the following criteria
 
-1. Clarity & Precision (0-10 pts)
+1. Clarity and Precision (0-10 pts)
 
-2. Accuracy & Truthfulness (0-10 pts)
+2. Accuracy and Truthfulness (0-10 pts)
 
-3. Economy of Expression & Neatness (0-10 pts)
+3. Economy of Expression and Neatness (0-10 pts)
 
-4. Pleasantness & Readability (0-10 pts)
+4. Pleasantness and Readability (0-10 pts)
 
-5. Organization & Formatting (0-10 pts)
+5. Organization and Formatting (0-10 pts)
 
 **** The following infractions will automatically result in a zero 'Prose' score.
 
