@@ -1,4 +1,4 @@
-* Coding Contests: Promoting open-source solutions to common programming problems
+* Coding Lesson Contests: Promoting open-source solutions to common programming problems
 
 ** `TODO`
 *** Give explanations and examples for each of the scoring criteria
@@ -160,7 +160,7 @@ Contest postings shall include the following
 ** License
 
 #+BEGIN_EXAMPLE
-Coding Contests: Promoting open-source solutions to common programming problems
+Coding Lesson Contests: Promoting open-source solutions to common programming problems
     Copyright (C) 2022 Matthew I. Laine
 
     This program is free software: you can redistribute it and/or modify
