@@ -1,8 +1,20 @@
 * Coding Contests: Promoting open-source solutions to common programming problems
 
+** TODO
+*** Give explanations and examples for each of the scoring criteria
+*** Make a bash script for submission skeleton setup
+*** Complete 'Style & Organization' section
+**** Make example submission
+**** Fill in text
+*** Reassess the situation and make TODOs accordingly
+
 ** Rules
 
-*** Literate Programming
+*** Style & Organization
+
+Feel free to use the bash script provided in the contest GitHub repository to make a new skeleton folder with contents in accordance with the style and organization criteria outlined below.
+
+Submissions must follow literate programming practices as outlined below and demonstrated in the example submission located here
 
 Submissions must be in the form of an Org-mode document, and must follow literate programming practices as outlined below and demonstrated in the included example.
 
@@ -126,7 +138,7 @@ Submissions must be in the form of an Org-mode document, and must follow literat
 
 Contest postings shall include the following
 
-1. Prompt
+1. Prompt: Title + short explanation + any additional information such as target audience, assumed prerequisite knowledge, etc..
 
 2. Submission deadline
 
