@@ -7,6 +7,7 @@
 ***** Make example repository
 ***** Make a bash script for submission skeleton setup
 **** Fill in text of style and organization section
+***** Literate programming
 *** Reassess the situation and make TODOs accordingly
 
 ** Rules
@@ -18,6 +19,8 @@ Feel free to use the bash script provided in the contest GitHub repository to ma
 Submissions must follow literate programming practices as outlined below and demonstrated in the example submission located here
 
 Submissions must be in the form of an Org-mode document, and must follow literate programming practices as outlined below and demonstrated in the included example.
+
+[Stuff on literate programming goes here]
 
 *** Language
 
