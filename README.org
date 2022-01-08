@@ -101,7 +101,7 @@ Submissions must be in the form of an Org-mode document, and must follow literat
 
 ** Scoring
 
-*** Code (0-50 pts) will be scored based upon the following criteria (adopted from [[https://link.springer.com/book/10.1007/978-1-4842-4000-7][Stylish F#, by Kit Eason, 2022]])
+*** Code (0-50 pts) will be scored based upon the following criteria (adopted from [[https://link.springer.com/book/10.1007/978-1-4842-7205-3][Stylish F# 6, by Kit Eason, 2022]])
 
 1. Motivational Transparency (0-15 pts)
 
