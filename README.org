@@ -1,7 +1,7 @@
 * Coding Lesson Contests: Promoting open-source solutions to common programming problems
 
 ** `TODO`
-*** Give explanations and examples for each of the scoring criteria
+*** Give explanations and examples for each of the [[#scoring]] criteria
 *** Complete 'Style & Organization' section
 **** Make example submission
 ***** Make example repository
