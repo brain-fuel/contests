@@ -33,11 +33,13 @@ Submissions must be in the form of an Org-mode document, and must follow literat
 
 *** Submissions
 
-1. In order to be considered, content (prose, code, image(s)) must arrive as a pull request to the appropriate GitHub repository before the deadline specified in the contest [[#postings][posting]], and the submission form must be filled out and submitted via Google Forms.
+1. Each contestant may make only one submission per contest.
+
+2. In order to be considered, content (prose, code, image(s)) must arrive as a pull request to the appropriate GitHub repository before the deadline specified in the contest [[#postings][posting]], and the submission form must be filled out and submitted via Google Forms.
 
    Note: pull requests made prior to the deadline may be given feedback at the discretion of the judges. Contestants may use this to their advantage, if they so wish. The sumission form contains a field for the git commit hash to be considered by the judges for review. Only the commit indicated in the submission form will be judged in the context of the contest.
 
-2. Only submissions submitted under the [[https://www.gnu.org/licenses/gpl-3.0.en.html][Gnu General Public License version 3.0]] will be accepted.
+3. Only submissions submitted under the [[https://www.gnu.org/licenses/gpl-3.0.en.html][Gnu General Public License version 3.0]] will be accepted.
 
    What does this mean?
    This means that, at bare minimum, the following must be adhered to, with the exception of providing a paper mail address.
@@ -133,7 +135,7 @@ Submissions must be in the form of an Org-mode document, and must follow literat
 
 ***** Failure to earn at least 50% of the possible points in any of the above Prose scoring categories.
 
-*** Earning a zero in either Code or Prose will cause any given entry to be disqualified from competition.
+*** Earning a zero in either Code or Prose will cause any given submission to be disqualified from competition.
 
 ** Postings
 
