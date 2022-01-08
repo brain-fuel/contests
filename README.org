@@ -1,6 +1,6 @@
 * Coding Contests: Promoting open-source solutions to common programming problems
 
-** TODO
+** `TODO`
 *** Give explanations and examples for each of the scoring criteria
 *** Make a bash script for submission skeleton setup
 *** Complete 'Style & Organization' section
