@@ -27,7 +27,7 @@ Submissions must be in the form of an Org-mode document, and must follow literat
 
 *** Originality
 
-1. Submissions may contain work by people other than the contestant, but may not include content for which the contestant does not have the right to submit under Copyright Law, and the [[#license][Licensing]] section below.
+1. Submissions may contain work by people other than the contestant, but may not include content for which the contestant does not have the right to submit under Copyright Law, and the [[https://www.gnu.org/licenses/gpl-3.0.en.html][Gnu General Public License version 3.0]].
 2. If a submission contains work by people other than the contestant, proper [[https://www.citationmachine.net/resources/citing-sources-apa/][attribution]] must be given. APA format isn't necessary, but can be convenient if you choose to use it.
 3. Submissions may not merely repackage the work of another. They must contain original content. The amount of original content required, both in total and in relation to the quantity of the content of others, is subject to the discernment of the judge(s).
 
