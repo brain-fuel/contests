@@ -2,7 +2,7 @@
 
 ** `TODO`
 *** Give explanations and examples for each of the [[#scoring]] criteria
-*** Complete [[#style-organization]] section
+*** Complete [[#style-and-organization]] section
 **** Make example submission
 ***** Make example repository
 ***** Make a bash script for submission skeleton setup
@@ -11,7 +11,7 @@
 
 ** Rules
 
-*** Style & Organization
+*** Style and Organization
 
 Feel free to use the bash script provided in the contest GitHub repository to make a new skeleton folder with contents in accordance with the style and organization criteria outlined below.
 
