@@ -2,7 +2,7 @@
 
 ** `TODO`
 *** Give explanations and examples for each of the [[#scoring]] criteria
-*** Complete 'Style & Organization' section
+*** Complete [[#style & organization]] section
 **** Make example submission
 ***** Make example repository
 ***** Make a bash script for submission skeleton setup
